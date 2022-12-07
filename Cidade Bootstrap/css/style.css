@@ -1,0 +1,26 @@
+/* Barra de navegação */
+header, .navbar {
+    background-color: #7c8b89;
+  }
+footer{
+    background: rgba(0, 0, 0, 0.205);
+}
+#navbar-links a {
+    color: #FFF;
+  }
+.navbar-brand:hover {
+    color: #FFF;
+  }
+#navbar-brand {
+    color: #FFF;
+
+}
+.navbar-brand {
+  color: #FFF;
+}
+.main-title {
+  background: rgba(145, 210, 236, 0.767);
+}
+header, navbar navbar-expand-lg bg-ligh {
+  color: #FFF;
+}
